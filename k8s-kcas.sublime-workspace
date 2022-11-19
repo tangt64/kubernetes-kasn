@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"k8s",
+				"k8sSsl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bebop/OneDrive/바탕 화면/kubernetes-kasn"
+	],
+	"file_history":
+	[
+		"/C/Users/bebop/OneDrive/바탕 화면/kubernetes-kasn/README.md",
+		"/H/duststack-k8s-auto/inventory/group_vars/all/extensions",
+		"/H/duststack-k8s-auto/inventory/group_vars/all/kubernetes",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/firewalld.yaml",
+		"/H/duststack-k8s-auto/inventory/group_vars/all/ssh",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/crio.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/containerd.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/main.yml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/kubelet.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/hostname.yaml",
+		"/H/duststack-k8s-auto/inventory/kubernetes",
+		"/H/duststack-k8s-auto/roles/core-crio/tasks/main.yml",
+		"/H/duststack-k8s-auto/roles/core-containerd/tasks/main.yaml",
+		"/H/duststack-k8s-auto/playbooks/k8s-install.yaml",
+		"/H/duststack-k8s-auto/roles/baremetal-hosts/tasks/deploy_hosts_j2.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/kernel-mods.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/packages.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-master-single/tasks/crio.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-master-single/tasks/containerd.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-master-single/tasks/main.yml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/repository.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/docker.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/templates/hosts.j2",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/files/kubernetes-8.repo",
+		"/H/duststack-k8s-auto/roles/os-network/vars/main.yaml",
+		"/H/duststack-k8s-auto/roles/os-network/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-node/tasks/main.yml",
+		"/H/duststack-k8s-auto/roles/k8s-master-ha/files/kubeadm-config.yaml",
+		"/C/Users/bebop/OneDrive/바탕 화면/training_memos/skt-ansible-intermediate/skeleton_directory/library/deploy_hosts_j2.yaml",
+		"/H/duststack-k8s-auto/roles/os-ssh/tasks/main.yaml",
+		"/C/Users/bebop/OneDrive/바탕 화면/training_memos/skt-ansible-intermediate/skeleton_directory/library/ssh.yaml",
+		"/C/Users/bebop/OneDrive/바탕 화면/training_memos/sk-hynix-ansible-cus/20220902/labs/varstest/host_vars/10.10.10.1",
+		"/H/duststack-k8s-auto/roles/k8s-master-ha/files/kubelet",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/files/kubelet",
+		"/H/duststack-k8s-auto/roles/k8s-master-single/files/kubelet",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/nodename.yaml",
+		"/C/Users/bebop/OneDrive/바탕 화면/training_memos/skt-ansible-intermediate/skeleton_directory/roles/os-network/tasks/net-firewalld.yaml",
+		"/H/duststack-k8s-auto/roles/os-network/defaults/main.yaml",
+		"/H/duststack-k8s-auto/roles/virt-k8s/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/core-virt/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-post-config/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/core-virt-config/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/extension-metrics/tasks/main.yaml",
+		"/H/duststack-k8s-auto/ansible.cfg",
+		"/H/duststack-k8s-auto/playbooks/k8s-kubevirt-install.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/handlers/main.yml",
+		"/H/duststack-k8s-auto/roles/core-virt/meta/main.yaml",
+		"/H/duststack-k8s-auto/ssh-key-copy.yaml",
+		"/H/duststack-k8s-auto/playbooks/k8s-virt-install.yaml",
+		"/H/duststack-k8s-auto/group_vars/all/ha",
+		"/H/duststack-k8s-auto/group_vars/all/kubernetes",
+		"/H/duststack-k8s-auto/inventory/group_vars/all/updates",
+		"/H/duststack-k8s-auto/inventory/group_vars/all/ha",
+		"/H/duststack-k8s-auto/playbooks/k8s-uninstall.yaml",
+		"/H/duststack-k8s-auto/roles/core-haproxy/templates/haproxy.conf.j2",
+		"/H/duststack-k8s-auto/roles/core-haproxy/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/tasks/kubernetes.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-prepare/templates/100-crio-bridge.conf.j2",
+		"/H/duststack-k8s-auto/roles/k8s-master-single/tasks/docker.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-master-ha/vars/master_node_count.yaml",
+		"/H/duststack-k8s-auto/roles/cni-calico/tasks/main.yaml",
+		"/H/duststack-k8s-auto/roles/k8s-master-ha/tasks/main.yaml",
+		"/H/duststack-k8s-auto/README.md",
+		"/H/duststack-k8s-auto/roles/k8s-master/tasks/main.yml",
+		"/C/Users/bebop/OneDrive/바탕 화면/training_memos/README.md",
+		"/C/Users/bebop/OneDrive/바탕 화면/skt-shell-ansble.md",
+		"/F/duststack-k8s-auto/roles/k8s-master/tasks/crio.yaml",
+		"/F/duststack-k8s-auto/inventory/group_vars/all/kubernetes",
+		"/F/duststack-k8s-auto/roles/k8s-prepare/templates/100-crio-bridge.conf.j2",
+		"/F/duststack-k8s-auto/roles/k8s-master/tasks/docker.yaml",
+		"/F/duststack-k8s-auto/group_vars/all/extensions",
+		"/F/duststack-k8s-auto/group_vars/classroom/kickstart",
+		"/F/duststack-k8s-auto/group_vars/classroom/materials",
+		"/F/duststack-k8s-auto/group_vars/all/ha",
+		"/F/duststack-k8s-auto/group_vars/all/ntp",
+		"/F/duststack-k8s-auto/roles/k8s-master/tasks/calico.yaml",
+		"/F/duststack-k8s-auto/roles/k8s-prepare/tasks/hostname.yaml",
+		"/F/duststack-k8s-auto/inventory/kubernetes",
+		"/F/duststack-k8s-auto/group_vars/all/kubernetes",
+		"/F/duststack-k8s-auto/playbooks/k8s-install.yaml",
+		"/F/duststack-k8s-auto/roles/k8s-master-ha/tasks/main.yaml",
+		"/F/duststack-k8s-auto/library/add2vhost",
+		"/F/duststack-k8s-auto/inventory/group_vars/all/ha",
+		"/F/duststack-k8s-auto/roles/k8s-prepare/tasks/main.yml",
+		"/C/Users/bebop/Downloads/iris.data",
+		"/C/Users/bebop/Downloads/bezdekIris.data",
+		"/C/Users/bebop/Downloads/iris.names",
+		"/C/Users/bebop/Downloads/DL_01_height_weight_regression.ipynb",
+		"/C/Users/bebop/Downloads/DL_02_iris_classification.ipynb",
+		"/?wsl.localhost/Ubuntu-20.04/home/tang/whisper-chat-example/src/main.js",
+		"/?wsl.localhost/Ubuntu-20.04/home/tang/whisper-chat-example/src/WhisperChat.vue",
+		"/C/Users/bebop/OneDrive/Documents/GitHub/decentralized-chat/dist/index.html",
+		"/C/Users/bebop/OneDrive/Documents/GitHub/blockchain-chat/bundle.js",
+		"/C/Users/bebop/Downloads/kickstart.cfg",
+		"/C/Users/bebop/OneDrive/Documents/GitHub/decentralized-chat/README.md",
+		"/C/Users/bebop/Downloads/kickstart (2).cfg",
+		"/C/Users/bebop/Downloads/kickstart (1).cfg",
+		"/C/Users/bebop/AppData/Local/Temp/7zO8EE43E0A/lab",
+		"/C/Users/bebop/Downloads/genesis.json",
+		"/C/Users/bebop/OneDrive/Documents/GitHub/keis-container-devops/README.md",
+		"/C/Users/bebop/Downloads/deliverymain/delivery.js",
+		"/C/Users/bebop/OneDrive/바탕 화면/sdsdsdsds",
+		"/?wsl.localhost/CentOS8/root/keis-container-devops/README.md.txt",
+		"/C/Users/bebop/Downloads/오늘 수업의 예제 프로그램-20211028/device/measure.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "k8s-kcas.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
